@@ -108,14 +108,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RafaUC/Allusion.git"
+    "url": "git+https://github.com/thegenerativegeneration/Allusion.git"
   },
   "author": "Allusion-App",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RafaUC/Allusion/issues"
+    "url": "https://github.com/thegenerativegeneration/Allusion/issues"
   },
-  "homepage": "https://github.com/RafaUC/Allusion/Allusion#readme",
+  "homepage": "https://github.com/thegenerativegeneration/Allusion/Allusion#readme",
   "devDependencies": {
     "@svgr/webpack": "^6.5.1",
     "@types/better-sqlite3": "^7.6.13",

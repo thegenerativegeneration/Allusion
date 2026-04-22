@@ -56,7 +56,7 @@ export function setupUpdater(getMainWindow: () => Electron.BrowserWindow | null)
     if (dialogResult.response === 0) {
       autoUpdater.downloadUpdate();
     } else if (dialogResult.response === 2) {
-      shell.openExternal('https://github.com/RafaUC/Allusion/releases/latest');
+      shell.openExternal('https://github.com/thegenerativegeneration/Allusion/releases/latest');
     }
   });
 

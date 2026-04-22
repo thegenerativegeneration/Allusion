@@ -32,8 +32,8 @@ const About = observer(() => {
         <ul>
           <li>General information</li>
         </ul>
-        <ExternalLink url="https://github.com/RafaUC/Allusion">
-          github.com/RafaUC/Allusion
+        <ExternalLink url="https://github.com/thegenerativegeneration/Allusion">
+          github.com/thegenerativegeneration/Allusion
         </ExternalLink>
         <ul>
           <li>Download the latest version</li>
