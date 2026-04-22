@@ -1,6 +1,20 @@
 <img alt="Allusion" src="./screenshot.jpg"/>
 
-Fork of [Allusion](https://github.com/allusion-app/Allusion/) with:
+This is a fork of [Allusion by RafaUC](https://github.com/RafaUC/Allusion) which is a fork of [Allusion](https://github.com/allusion-app/Allusion/) with:
+
+This fork adds:
+- Semantic search
+  - Text queries return relevant items based on their content, not just tags or filenames.
+  - "Find similar" queries return similar items based on visual features, even if they aren't tagged as related.
+  - Similar items are automatically suggested in the sidebar when viewing an item.
+  - Uses vector embeddings and cosine similarity for relevance ranking.
+- 3D model support
+  - Renders 3D files to temporary PNGs for preview and semantic indexing.
+  - Supports traditional 3D formats and novel 3D Gaussian Splats.
+  - Interactive 3D preview with basic controls (rotate, zoom).
+
+
+RafaUC's fork added the following features:
 - Video support.
   - Video and GIF playback options.
 - Implied tag relationships.
